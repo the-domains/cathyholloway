@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.799549
 color:
   brandColors:
     - '#9D2D3C'
@@ -10,9 +10,13 @@ color:
   lightness: 0.6531261622525447
   rhythmicContrast: 0.7587181047409155
   saturation: 0.8217731710451923
-cta: {}
-layout_spectrum: 0.7153092329661325
-name: 'Cathyholloway '
 opengraph: {}
+layout_spectrum: 0.7153092329661325
+analytics: {}
+author:
+  name: Cathy
+  email: c.holloway@ucl.ac.uk
+name: 'Cathyholloway '
+cta: {}
+title: Happy when making
 purpose: {}
-typography_spectrum: 0.799549
