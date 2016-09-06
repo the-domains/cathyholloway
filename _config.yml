@@ -1,5 +1,29 @@
-title: Happy when making
-purpose: {}
+typography_spectrum: 0.799549
+color:
+  saturation: 0.7382979
+  brandStrength: 0.311180610229744
+  lightness: 0.6531262
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  rhythmicContrast: 0.7587181
+opengraph: {}
+layout_spectrum: 0.7153092329661325
+analytics: {}
+author:
+  name: Cathy
+  email: c.holloway@ucl.ac.uk
+name: 'Cathyholloway '
+cta: {}
+navigation:
+  - name: Pokémon catching
+    id: 9f4b4795-d7c4-4029-9062-87b258ef2f41
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e13cbb2-bada-4721-b87a-b01e3d65711e.ico
 collections:
   - index:
       path: /
@@ -12,25 +36,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7382979
-  brandStrength: 0.311180610229744
-  lightness: 0.6531262
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.7587181
-cta: {}
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e13cbb2-bada-4721-b87a-b01e3d65711e.ico
-name: 'Cathyholloway '
-author:
-  name: Cathy
-  email: c.holloway@ucl.ac.uk
-opengraph: {}
-analytics: {}
-typography_spectrum: 0.799549
-layout_spectrum: 0.7153092329661325
+title: Happy when making
+purpose: {}
