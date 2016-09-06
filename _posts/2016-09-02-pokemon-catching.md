@@ -1,26 +1,36 @@
 ---
 inFeed: true
-author: []
-dateModified: '2016-09-02T11:18:57.061Z'
-via: {}
-title: Pokémon catching
-publisher: {}
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: >-
   Driving from Jacksonville to Orlando, we stopped to have a quick look at one
-  of the many fabulous beeches, only to find a gathering of people all looking
+  of the many fabulous beaches, only to find a gathering of people all looking
   at their screens. Families were arriving in droves, carrying devices of all
   shapes and sizes. People even had deck chairs all circled in one area. Why?
   Pokémon GO.
-datePublished: '2016-09-02T11:19:07.908Z'
-starred: true
+datePublished: '2016-09-02T12:20:19.116Z'
+dateModified: '2016-09-02T12:20:15.737Z'
+author: []
+via: {}
+title: Pokémon catching
 sourcePath: _posts/2016-09-02-pokemon-catching.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5cf5c5-4cd9-4fff-9690-e26a3cf683e6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cffa15ef-89ac-4dcb-afe4-194fe32fd42c.jpg)
 
-Driving from Jacksonville to Orlando, we stopped to have a quick look at one of the many fabulous beeches, only to find a gathering of people all looking at their screens. Families were arriving in droves, carrying devices of all shapes and sizes. People even had deck chairs all circled in one area. Why? _[Pokémon GO][0]**.**_
+Driving from Jacksonville to Orlando, we stopped to have a quick look at one of the many fabulous beaches, only to find a gathering of people all looking at their screens. Families were arriving in droves, carrying devices of all shapes and sizes. People even had deck chairs all circled in one area. Why? _[Pokémon GO][0]**.**_
 
 We stopped to ask two young men what they were up to and sure enough they too were chasing Pokémon. I hoped they didn't mind my saying it all looked a bit odd. The coastline was stunning. They agreed first time they had seen people staring at their screens in lines racing as a Pokémon appeared, they too had found it odd. But, once you've tried it you are hooked I was told. Had I tried? No, at least not yet.
 
