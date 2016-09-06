@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -11,20 +10,17 @@ description: >-
   at their screens. Families were arriving in droves, carrying devices of all
   shapes and sizes. People even had deck chairs all circled in one area. Why?
   Pokémon GO.
-datePublished: '2016-09-02T12:20:19.116Z'
-dateModified: '2016-09-02T12:20:15.737Z'
+datePublished: '2016-09-02T22:36:30.227Z'
+dateModified: '2016-09-02T22:36:29.554Z'
 author: []
 via: {}
 title: Pokémon catching
 sourcePath: _posts/2016-09-02-pokemon-catching.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: true
-_type: Blurb
+url: pokemon-catching/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5cf5c5-4cd9-4fff-9690-e26a3cf683e6.jpg)
